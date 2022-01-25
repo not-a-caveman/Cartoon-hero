@@ -1,0 +1,29 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+font-size: 30px;
+color: #2a59f3;
+}
+h2{
+font-size: 20px;
+color: #ff006a;
+}
+h2{
+color: #008b78;
+}
+.big{
+font-size: 50px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: navy;
+
+}
+h1 span{
+color: #9900ff;
+
+}
+
