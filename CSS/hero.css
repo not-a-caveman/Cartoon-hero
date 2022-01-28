@@ -63,6 +63,7 @@ footer {
     text-align: center;
 }
 p.caption{
+    font-size: small;
     margin: 0px;
     text-align: center;
     color: #1d3557;
